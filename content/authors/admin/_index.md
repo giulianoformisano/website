@@ -82,6 +82,6 @@ I am a PhD Candidate in Social Data Science at the {{< staticref "https://www.oi
 
 My research focuses on computational text analysis and political polarisation, using machine learning, natural language processing, network analysis, and time-series. 
 
-Alongside my PhD, I work as a Computational Social Science Researcher at Oxford's {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}} Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics{{< /staticref >}}, and {{< staticref "https://medialab.sciencespo.fr/en/" "newtab" >}} Science Po's MediaLab{{< /staticref >}}. 
+Alongside my PhD, I collaborate with Oxford's {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}} Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics{{< /staticref >}}, and {{< staticref "https://medialab.sciencespo.fr/en/" "newtab" >}} Science Po's MediaLab{{< /staticref >}}. 
 
 Previously, I completed an MPhil in Politics (Oxford, 2021) and a BA in Politics and International Relations (Exeter, 2019).
