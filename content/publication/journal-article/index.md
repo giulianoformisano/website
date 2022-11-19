@@ -1,12 +1,14 @@
 ---
 title: "An example journal article"
 authors:
+- Joerg Friedrichs
+- Niklas Stoehr
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+date: "2022-11-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Online Social Networks and Media, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: "This article explores how political actors use the emotions of fear and anger in what we call fear-anger contests. Our theory distinguishes between governmental and populist actors and posits that, in a contest for media attention and the hearts and minds of citizens, populists pursue a politics of anger whereas governmental actors pursue a politics of fear. To evaluate the theory, we examine two episodes of contentious politics: the 2016 Brexit referendum and the election of Donald Trump in the same year. We rely on automated sentiment analysis, using machine learning and emotion dictionaries to examine a dataset of social media posts on Twitter. In the case of Brexit, we find a fear-anger contest between Remain (“Project Fear”) and Leave (“Project Anger”). In the case of the 2016 US presidential election, we find a negativity contest where both parties reinforce each other’s negative emotions."
 
 tags:
 - Source Themes
